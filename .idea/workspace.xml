@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="289609c9-5e9a-480f-832e-50780dbb25ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/pansi/vellumbot/VellumBot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/pansi/vellumbot/VellumBotLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/pansi/vellumbot/api/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/pansi/vellumbot/api/Loadable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/pansi/vellumbot/api/command/CommandAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/pansi/vellumbot/api/command/CommandContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/pansi/vellumbot/api/command/CommandException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/pansi/vellumbot/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/pansi/vellumbot/command/CommandArgument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/pansi/vellumbot/command/CommandArgumentValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/pansi/vellumbot/command/CommandHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/pansi/vellumbot/command/CommandScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/pansi/vellumbot/command/commands/CalendarCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/pansi/vellumbot/listeners/CommandListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/pansi/vellumbot/listeners/GuildListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/pansi/vellumbot/resource/BotProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/pansi/vellumbot/resource/CommandProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/pansi/vellumbot/resource/VellumProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/pansi/vellumbot/utils/CalendarHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/bot.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/command-handler.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/command.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="gjbc9k0h" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2GMLo1O6aAVkjnZlTeQAhSRe3fw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Elias/IdeaProjects/VellumBot/src/main/resources"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Elias\IdeaProjects\VellumBot\src\main\resources" />
+      <recent name="C:\Users\Elias\IdeaProjects\VellumBot\src\main\java\net\pansi\vellumbot\api" />
+      <recent name="C:\Users\Elias\IdeaProjects\VellumBot\src\main\java\net\pansi\vellumbot\command" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.pansi.vellumbot.api" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="VellumBotLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.pansi.vellumbot.VellumBotLauncher" />
+      <module name="VellumBot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.pansi.vellumbot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VellumBotLauncher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="289609c9-5e9a-480f-832e-50780dbb25ea" name="Changes" comment="" />
+      <created>1666193679415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666193679415</updated>
+      <workItem from="1666193681053" duration="5927000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
